@@ -1,0 +1,6 @@
+
+flask
+delta-spark==2.4.0
+pyspark
+pandas
+flask-cors
